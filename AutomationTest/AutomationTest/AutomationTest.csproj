@@ -61,6 +61,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AHomePageTest.cs" />
+    <Compile Include="BRegisterPageTest.cs" />
+    <Compile Include="CLogInPageTest.cs" />
+    <Compile Include="Elements.cs" />
+    <Compile Include="GlobalsWords.cs" />
     <Compile Include="TestBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
